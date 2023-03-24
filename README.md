@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-I am an Enthusiastic Software Engineer currently employeed at SwissPost as an apprendice (3/4 years). 
+As a software engineer with a passion for designing and building solid web applications and distributed systems, I am dedicated to delivering high-quality software solutions that meet business objectives. 
 
-My bread and butter is building solid web applications, working on the entire stack, front to back...
+I have a strong interest in software architecture and everything around distributed and large-scale systems and I enjoy staying up-to-date with the latest trends in the industry by reading big tech engineering blogs.
 
-During my software engineering journey I had the opportunity to work on several projects, both state of the art, enterprise, production grade projects at SwissPost, but also smaller school and side projects.
-
-On school and side projects I had the natural trend to take leadership and work on the entire software development lifecycle, from functionality analysis to architecting and engineering software solutions, helping other team members.
+With a strong focus on collaboration and teamwork, I am always eager to work with others to develop innovative solutions that solve complex problems. 
